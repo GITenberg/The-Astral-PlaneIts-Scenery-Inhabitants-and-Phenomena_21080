@@ -1,0 +1,32 @@
+_repo: The-Astral-PlaneIts-Scenery-Inhabitants-and-Phenomena_21080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leadbeater, C. W. (Charles Webster)
+    alias: Leadbeater, Charles Webster
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '4699'
+    url: http://www.gutenberg.org/2009/agents/4699
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Webster_Leadbeater
+description: ''
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21080'
+  lccn: '32035011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astral body'
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+title: 'The Astral Plane
+
+  Its Scenery, Inhabitants and Phenomena'
+url: http://www.gutenberg.org/ebooks/21080
